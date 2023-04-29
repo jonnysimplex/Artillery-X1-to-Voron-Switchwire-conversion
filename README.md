@@ -12,7 +12,8 @@ The heatbed assemble.
 
 XYZ motors.
 
-Im hoping to save
+
+Im hoping to save:
 
 The cables 
 
